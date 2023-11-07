@@ -1,0 +1,145 @@
+body {
+    background-image: url(68.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.naav {
+    position: absolute;
+    top: 50px;
+    size: 100px;
+    left: 565px;
+}
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 25px;
+    right: 0px;
+}
+.Phone-text {
+    color: #fff;
+    position: absolute;
+    left: 1500px;
+    top: 20px;
+    color: black;
+}
+.number {
+    position: absolute;
+    top: 20px;
+    left: 1500px;
+    color: black;
+}
+.h1 {
+    position: absolute;
+    top: 650px;
+    left: 250px;
+    margin-right: 90px;
+}
+.h2 {
+    position: absolute;
+    top: 650px;
+    left: 750px;
+    margin-right: 90px;
+}
+.h3 {
+    position: absolute;
+    top: 650px;
+    left: 1250px;
+    margin-right: 90px;
+}
+.main_bt {
+    position: absolute;
+    background: #282e40;
+    color: #fff;
+    padding: 0;
+    float: left;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 0;
+    margin-right: 0;
+    width: 220px;
+    height: 65px;
+    text-align: center;
+    line-height: 65px;
+    top: 970px;
+    left: 315px;
+}
+.main_bt2 {
+    position: absolute;
+    background: #282e40;
+    color: #fff;
+    padding: 0;
+    float: left;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 0;
+    margin-right: 0;
+    width: 220px;
+    height: 65px;
+    text-align: center;
+    line-height: 65px;
+    top: 970px;
+    left: 870px;
+}
+.main_bt1 {
+    position: absolute;
+    background: #282e40;
+    color: #fff;
+    padding: 0;
+    float: left;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 0;
+    margin-right: 0;
+    width: 220px;
+    height: 65px;
+    text-align: center;
+    line-height: 65px;
+    top: 970px;
+    left: 1350px;
+}
+.textt {
+    position: absolute;
+    top: 858px;
+    left: 340px;
+    font-size: 300%;
+}
+.texttt {
+    position: absolute;
+    top: 0px;
+    left: 540px;
+    font-size: 100%;
+}
+.textttt {
+    position: absolute;
+    top: 0px;
+    left: 445px;
+    font-size: 100%;
+}
+a {display: table;
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+    margin: 0 10px;
+margin-top: 2em;
+margin-left: 2.5em;
+  }
+.icon {
+    position: absolute;
+    list-style: none;
+    display: flex;
+    color: black;
+    font-family: Helvetica;
+    top: 1px;
+    left: 10px;
+  }
+  .naavv {
+    position: absolute;
+    top: 400px;
+    right: -580px;
+    height:635px ;
+    width: 2790px;
+    size: 100%;
+  }
+  
